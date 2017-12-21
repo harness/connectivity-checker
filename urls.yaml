@@ -1,0 +1,4 @@
+- url: https://api.harness.io/api/version
+  description: 'Harness API'
+- url: http://wingswatchers.s3-website-us-east-1.amazonaws.com/watcherprod.txt
+  description: 'Amazon S3 bucket'
