@@ -1,4 +1,0 @@
-- url: http://api.harness.io
-  description: 'Harness App'
-- url: http://wingswatchers.s3-website-us-east-1.amazonaws.com/watcherprod.txt
-  password: 's3 bucket'
