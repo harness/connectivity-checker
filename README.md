@@ -13,4 +13,4 @@ To build:
 If you add additional non-standard Go dependencies, just make sure they are included in the `vendor` directory that you can do with `govendor`
 https://github.com/kardianos/govendor
 
-Note that this builds a `binary`. if you want `more transparency`, you can just use a shell script that runs a `curl` command against the list of URLs to achieve the same. 
+Note that this builds a `binary`. if you want `more transparency`, you can just use a shell script in `scripts/` directory that runs a `curl` command against the list of URLs to achieve the same. 
